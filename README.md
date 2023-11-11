@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sthefany Furtuoso
 - 👀 I’m interested in career transition
-- 🌱 I’m currently learning Python, SQL and JavaScript
-- 💞️ I’m looking to develop a portfolio
-- 📫 You can reach me between Linkedin as Sthefany Pereira
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on Linkedin at sthefany-pereira
 
 <!---
 sthfp/sthfp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
